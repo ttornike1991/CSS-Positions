@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 1000px;
+    width: 1000px;
+}
+.div1{
+    background-image: url("https://hdflowerwallpaper.com/wallpaper/2015/10/flower-wallpaper-big-size-2-desktop-background.jpg");
+    background-size: auto 1000px;
+    background-position: center center;
+}
+
+
+.div2{
+    background-image: url(/background-text-exercise/assets/img/pic1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: auto ;
+}
