@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    border: 2px solid black;
+    position: absolute;
+    height: 200px;
+}
+
+.div1{
+    top:0;
+    left:40%;
+}
+.div2{
+    top:0;
+    left:43%;
+}
+.div3{
+    top:0;
+    left:46%;
+}
+.div4{
+    top:0;
+    left: 49%; 
+}
