@@ -1,3 +1,5 @@
+#1
+
 Absolutely Positioned Layouts.
 
 
@@ -9,3 +11,9 @@ If the position of an element doesn't need to affect the position of any other e
 You can create any layout you like using absolute positioning, provided you don't need the elements to jostle each other out of the way.
 
 Absolute positioning is useful in any element where we know the height in advance. It the case of our header, we have fixed the height so we don't need to worry about elements interfering with each other. We're free to chuck the header's contents around as we see fit.
+
+#2
+
+CSS background propertys
+
+The background property in CSS allows you to control the background of any element (what paints underneath the content in that element).
